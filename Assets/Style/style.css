@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+
 body {
     background: #EEAECA;
     background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
@@ -27,13 +28,10 @@ body {
 .Profile h4 {
     color: black;
     transform: translateY(-15px);
-    transform: translateY(-15px);
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 200;
     font-style: normal;
-}
-
 }
 
 .meJPG {
@@ -72,6 +70,7 @@ body {
 .row {
     padding: 0px 10px;
 }
+
 
 .Biodata h1 {
     font-family: "DynaPuff", system-ui;
